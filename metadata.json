@@ -1,0 +1,6 @@
+{
+  "name": "LivinGreen - Lavado de Alfombras y Pisos en Santiago",
+  "description": "Lavado de alfombras, tapices y colchones a domicilio o con retiro y entrega en Santiago. Pulido y vitrificado de pisos. Más de 15 años de experiencia y 5.0 en Google. Cotiza por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
